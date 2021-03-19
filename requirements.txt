@@ -3,7 +3,7 @@ neuralpy-torch==0.1.1
 numpy==1.19.0
 p==0.0.0
 pandas==1.0.5
-Pillow==7.2.0
+Pillow==8.1.1
 python-dateutil==2.8.1
 pytz==2020.1
 six==1.15.0
